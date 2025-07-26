@@ -1,6 +1,6 @@
 # Chat Interface 
 
-![demo](./demo.mov)
+![demo](./demo.mp4)
 
 
 
